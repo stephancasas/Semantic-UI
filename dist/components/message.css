@@ -91,7 +91,7 @@
 }
 .ui.message .list:not(.ui) li:before {
   position: absolute;
-  content: '•';
+  content: '\2022';
   left: -1em;
   height: 100%;
   vertical-align: baseline;
